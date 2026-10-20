@@ -7,7 +7,7 @@ export default function OverlayControls({
   isFullscreen,
   showBack = true,
   showHome = true,
-  homeHref = 'https://totem-smart-flow.base44.app/',
+  homeHref = 'https://inri-pkrf.github.io/Totem-Pro-Final/',
 }) {
   return (
     <>

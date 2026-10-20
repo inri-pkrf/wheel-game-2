@@ -517,7 +517,7 @@ export default function Game() {
 
       {/* Home button — bottom-right */}
       <a
-        href="https://totem-smart-flow.base44.app/"
+        href="https://inri-pkrf.github.io/Totem-Pro-Final/"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-4 right-4 z-30 flex items-center justify-center rounded-full text-white hover:brightness-110 transition-all"
